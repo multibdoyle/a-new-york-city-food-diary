@@ -1,3 +1,6 @@
+//import { paginate } from 'gatsby-awesome-pagination';
+
+
 const path = require(`path`)
 const _ = require('lodash');
 const { createFilePath } = require(`gatsby-source-filesystem`)
@@ -40,7 +43,7 @@ exports.createPages = ({ graphql, actions }) => {
 
     // Create blog posts pages.
     const posts = result.data.allMarkdownRemark.edges
-    const postsPerPage = 10
+    const postsPerPage = 20
     const numPages = Math.ceil(posts.length / postsPerPage)
 
     posts.forEach((post, index) => {
@@ -106,7 +109,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value ,
     })
   }
 }
