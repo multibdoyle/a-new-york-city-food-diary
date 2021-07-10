@@ -68,13 +68,13 @@ module.exports = {
       `gatsby-plugin-image`,
       `gatsby-plugin-sharp`,
       `gatsby-transformer-sharp`,
-      // uncomment this and input the trackingId to enable google analytics
-      // {
-      // resolve: `gatsby-plugin-google-analytics`,
-      // options: {
-      // trackingId: `ADD YOUR TRACKING ID HERE`,
-      // },
-      // },
+       //uncomment this and input the trackingId to enable google analytics
+      {
+       resolve: `gatsby-plugin-google-analytics`,
+       options: {
+       trackingId: `UA-169387969-1`,
+       },
+       },
       `gatsby-plugin-feed`,
       {
         resolve: `gatsby-plugin-manifest`,
