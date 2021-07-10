@@ -8,7 +8,7 @@ module.exports = {
         twitter: ``,
         facebook: ``,
         github: `multibdoyle`,
-        linkedin: `in/brendan-doyle-403ba028/`,
+        linkedin: `brendan-doyle-403ba028/`,
         email: `bdoyle.core@gmail.com`,
       },
     },
