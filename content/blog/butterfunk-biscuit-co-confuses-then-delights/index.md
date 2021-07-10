@@ -2,34 +2,36 @@
 title: Butterfunk Biscuit Co. Confuses, then Delights, then Confuses Again
 date: 2021-03-21 00:00:00 +0000
 description: Full disclosure, I just learned what shortcake is...
-img: ./BlackStarCookies_Small.jpeg # Add image post (optional)
+img: ./BiscuitShortcake.jpeg # Add image post (optional)
 tags: [UberEats, chopped cheese, shortcake] # add tag
 ---
 
-I’m always struck by the Upper East Side’s wildly diverse array of bakeries, pizzerias, cafes, beer halls and ethnic eateries. For me — a downtown New Yorker for the past five years — UES feels like a land of untapped food gems, waiting to be snuffled out.
+<a href='https://www.butterfunkbiscuit.com/' target='blank'>Butterfunk Biscuit Co.</a> is the brainchild of Chef Chris Scott, who uses his family's fourth-generation biscuit recipe across a wide swath of regional touchpoints from New York City and the American South. The Smoked Salmon Biscuit, Avocado Toast Biscuit and Crispy Fried Chicken Biscuit are all top-billers on the menu.
 
-Case in point: Black Star Bakery on York Avenue between 84th and 85th, where I met a friend for coffee and a light bite this afternoon.
+Choosing between different comfort food dishes, for me, is like picking a winner in a cute baby contest, so I had some difficulty honing in on one particular option from Butterfunk's menu. After some deliberation, I decided on the Chopped Cheese Biscuit. A chopped cheese, for those unaware, is the uptown New York City bodega order du jour*, akin to a bacon-egg-and-cheese in Midtown, or a hummus wrap and SmartWater in Tribeca.
 
-Black Star hosts a white, narrow minimalist space and a murderer’s row of in-house baked goods. You’ve got your muffins, your babkas, teensy gluten-free brownie cubes, palm-sized donuts, frosted ‘donut dots’, croissants, and on the plate closest to the register — cookies! Chocolate-chip and M&M cookies, making my heart beat fast; oh, glorious day!
+I finished off my order with the "Berry Berry Good Shortcake" — can’t skip dessert! — and hopped on a Zoom catch-up with a friend while I waited.
 
-And on top of the extensive menu, Black Star keeps a well-tended patio out back, replete with white umbrellas, white tabletops and fake grass for ideal backyard-summer-in-the-city vibes.
+When my food arrived, I plopped the bag of goodies on my bed and pulled out the first item at the top of the bag, which turned out to be the shortcake.
 
-I vanquished my first order — a strawberry-frosted donut dot and M&M cookie — within seconds of sitting down at a patio table. Cue a few more minutes of chatting with my friend, and I was back at the register, picking up two additional cookies — a chocolate-chip and another M&M — and an apple donut.
+Right away, I sensed something was wrong. My berry-shortcake medley looked more like croutons, crème fraîche, and yellow cherry tomatoes with a sprig of parsley.
 
-<div class="Image__Small">
-  <img src="./BlackStarCookies_Small.jpeg" alt="alt text for small image" />
-</div>
+My friend agreed the whole rigamarole seemed off, as I held up the food to the camera. Audibly crunching into one of the ‘shortcake’ bites confirmed that this dessert was a bit janky.
 
+Unsettled, I put the carton down and decided to wait until later to eat the rest. I didn’t want to cry on a Zoom call.
 
+Twenty minutes later, when I got off the Zoom and dug into the Chopped Cheese Biscuit, my worst fears about Butterfunk were slightly quelled — the sandwich was a delicious, cheesy, beefy symphony. The onions provided crucial grease and crunch, and the biscuit, though a smidge overdone on the exterior, eventually softened into a pleasing bready mush.
 
-I submitted the second round of food to a photo shoot, with the help of my friend — that potted plant and coffee cup? Her idea. The second and third cookies confirmed that Black Star’s are top-of-the-line — chewy, sweet, chocolatey, and remarkably warm and fresh for the late afternoon.
+After scooping up the last of the biscuit and beef, I tentatively tucked into the shortcake; this second go-round proved slightly more — ahem — fruitful. The yellow balls turned out to be fresh gooseberries, tart and juicy, and the sliced strawberries and blueberries were also perfectly ripe. Healthy dollops of whipped cream did just enough to moisten the bread bites into a palatable dessert.
 
-The apple donut was light and bready; I wouldn’t be surprised if Black Star bakes instead of fries. The little dough-round came layered with a generous spread of sweet apple frosting and moist core of tart apple jelly, making for what I imagine as the perfect breakfast donut.
+If I had read the menu carefully, of course, I would have noticed the shortcake description specifically called out ‘toasted biscuits' as part of the mix. At first, I thought labeling toasted biscuits 'shortcake' was false advertising; my girlfriend, however, has made clear that shortcake is always a form of biscuit.
 
-I would be picking up a Black Star donut every weekend post-run in Central Park, if I didn’t happen to live on the opposite side of town.
+I had thought shortcake was basically sponge cake; pardon me for being honest about my ignorance. In either case, Butterfunk's shortcake dessert succumbed to a case of too toasty biscuits; I prefer my cakes to caress, not crunch. I'd give this dish a 3 out of 5.
 
-Overall, Black Star made for a lovely coffee shop sit-down experience. We were safe and shaded under the patio umbrella, and able to enjoy our food and drinks until the shop closed at 4 p.m..
+The Chopped Cheese Biscuit gets a 4 out of 5. The ground beef was hearty, the cheese was melty, the biscuit was, um, toasted. Maybe a little too toasted, which keeps the sandwich from a higher score. Still, I’d absolutely order another Butterfunk biscuit sandwich.
 
-A five out of five for Black Star Bakery; the place was perfect, what more do you want me to say? Put that cookie on a ‘best-of’ list, give me them donuts after I crush Harlem Hill. Hot vax summer, baby!
+So overall, a 3.5 out of 5 for Butterfunk Biscuit Co. Perhaps their score was a little handicapped by my lack of knowledge about shortcake, but you know, they've pretty much got the Southern biscuit market cornered in New York; they deserve to be held to a high standard.
 
 Until next time.
+
+*For more details on how to make a proper chopped cheese — typically packed into a hero roll with ground beef, onions, melted cheese, tomatoes, lettuce and ketchup, fried to order on a bodega grill — please refer to Harlem rapper Jim Jones’ five-minute lesson.
