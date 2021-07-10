@@ -5,7 +5,7 @@ description: Dawww look at that lil' chocolate-hazelnut bombolini...
 img: ./VesuvioBakery.jpeg # Add image post (optional)
 tags: [Soho, bombolinis, donuts, cookies] # add tag
 ---
-esuvio Bakery — the reincarnation of a nearly century-old family bakery run by the legendary ‘mayor of Greenwich Village’ Anthony Dapolito — opened its green-painted doors in March of last year, right in time for the first city-wide lockdowns. During the worst part of the pandemic, Vesuvio was a neighborhood oasis for anyone who needed a break from the walls of their apartment.
+Vesuvio Bakery — the reincarnation of a nearly century-old family bakery run by the legendary ‘mayor of Greenwich Village’ Anthony Dapolito — opened its green-painted doors in March of last year, right in time for the first city-wide lockdowns. During the worst part of the pandemic, Vesuvio was a neighborhood oasis for anyone who needed a break from the walls of their apartment.
 
 The food at Vesuvio is as perfectly sugar-coated and rustic-delicious as the atmosphere would suggest. I’ve spent many a morning in Vesuvio, post-gym, masked-up, letting the mid-century jazz salve my soul while waiting for a coffee.
 
