@@ -8,7 +8,7 @@ tags: [Upper East Side, cookies, donuts] # add tag
 
 I’m always struck by the Upper East Side’s wildly diverse array of bakeries, pizzerias, cafes, beer halls and ethnic eateries. For me — a downtown New Yorker for the past five years — UES feels like a land of untapped food gems, waiting to be snuffled out.
 
-Case in point: Black Star Bakery on York Avenue between 84th and 85th, where I met a friend for coffee and a light bite this afternoon.
+Case in point: <a href='https://www.blackstarbakery.com/' target='blank'>Black Star Bakery</a> on York Avenue between 84th and 85th, where I met a friend for coffee and a light bite this afternoon.
 
 Black Star hosts a white, narrow minimalist space and a murderer’s row of in-house baked goods. You’ve got your muffins, your babkas, teensy gluten-free brownie cubes, palm-sized donuts, frosted ‘donut dots’, croissants, and on the plate closest to the register — cookies! Chocolate-chip and M&M cookies, making my heart beat fast; oh, glorious day!
 

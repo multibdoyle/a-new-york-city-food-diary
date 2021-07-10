@@ -5,7 +5,7 @@ description: The world needs more Biscoff cookie-based desserts.
 img: ./LeyRa_Waffle.jpeg # Add image post (optional)
 tags: [waffles, Greenwich Village, desserts, Biscoff, chocolate] # add tag
 ---
-LeyRa Chocolate is a small storefront on MacDougal Street with three chocolate fountains and a matrix of sweet permutations across waffles, crepes, fruit dips and cream puffs, plus (kinda randomly) a few pasta options. 
+<a href='https://www.instagram.com/leyrachocolate/?hl=en' target='blank'>LeyRa Chocolate</a> is a small storefront on MacDougal Street with three chocolate fountains and a matrix of sweet permutations across waffles, crepes, fruit dips and cream puffs, plus (kinda randomly) a few pasta options. 
 
 I went to LeyRa for a late afternoon waffle-siesta last weekend and was impressed by my delicious, fresh and photogenic dark-chocolate drizzled Lotus cookie waffle. I ordered the same cookie waffle today, varying the order slightly with white chocolate instead of dark-chocolate, and was equally delighted. 
 

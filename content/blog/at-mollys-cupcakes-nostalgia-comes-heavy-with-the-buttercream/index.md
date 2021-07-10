@@ -5,7 +5,7 @@ description: Nothing like eating too many pastries to make me feel like a kid ag
 img: ./MollysCupcakes_Small.jpeg # Add image post (optional)
 tags: [cupcakes, cookies, Greenwich Village] # add tag
 ---
-John Nicolaides — former Leo Burnett creative director and Northwestern University advertising professor — probably spent as much time brainstorming the design and brand messaging of Molly’s Cupcakes as he did crafting the recipes.
+John Nicolaides — former Leo Burnett creative director and Northwestern University advertising professor — probably spent as much time brainstorming the design and brand messaging of <a href='http://www.mollyscupcakes.com/' target='blank'>Molly’s Cupcakes</a> as he did crafting the recipes.
 
 The bakery has a twee backstory — named for John’s third-grade teacher, Miss Molly, who was renowned for her home-baked birthday cupcakes — and a distinctive schoolbus-yellow storefront on the corner of Bleecker and Sixth Avenue. Whimsical details inside evoke the particular nostalgia of a public K-5 elementary school; customers can rock on a swing-seat by the counter, stack Jenga blocks on one of the back tables, or peruse a bookshelf filled with precocious children and young adult literature.
 

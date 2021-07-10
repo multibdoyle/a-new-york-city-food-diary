@@ -6,7 +6,7 @@ img: ./DanandJohnsWings.jpeg # Add image post (optional)
 tags: [wings, East Village] # add tag
 ---
 
-Dan & John’s Wings, founded in a Brooklyn apartment by two Buffalo natives, had been on my hit list for a while before this year. Their expertly-sauced chicken has been featured on pretty much every best-of New York list of note, and tend to run out days in advance in the run-up to major wing events like the Super Bowl.
+<a href='http://danandjohns.com/' target='blank'>Dan & John’s Wings</a>, founded in a Brooklyn apartment by two Buffalo natives, had been on my hit list for a while before this year. Their expertly-sauced chicken has been featured on pretty much every best-of New York list of note, and tend to run out days in advance in the run-up to major wing events like the Super Bowl.
 
 I accidentally ordered boneless wings on my first go-round with Dan & John’s on Uber Eats. Boneless wings, of course, are basically chicken nuggets and not a suitable meal for anyone over the age of 16. The fault was mine; I ate the chicken with a good degree of self-loathing.
 

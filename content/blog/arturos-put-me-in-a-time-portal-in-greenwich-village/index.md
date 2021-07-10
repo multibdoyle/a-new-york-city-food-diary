@@ -8,9 +8,9 @@ tags: [pizza, Greenwich Village] # add tag
 
 
 
-The three minutes I spent inside [Arturo’s Coal Oven Pizza](https://www.yelp.com/biz/arturos-new-york) this afternoon felt like I had stepped through a time portal into old New York — dim lighting, smoldering headshots on the walls, a four-piece jazz quartet swinging away on an elevated platform stage. I half-expected a smoky brunette to strut across the bar, blow cigarette smoke in my face and demand I stop staring and buy her a drink.
+The three minutes I spent inside <a href='https://www.yelp.com/biz/arturos-new-york' target='blank'>Arturo’s Coal Oven Pizza</a> this afternoon felt like I had stepped through a time portal into old New York — dim lighting, smoldering headshots on the walls, a four-piece jazz quartet swinging away on an elevated platform stage. I half-expected a smoky brunette to strut across the bar, blow cigarette smoke in my face and demand I stop staring and buy her a drink.
 
-Arturo’s has been slinging pizza [at the same corner of Houston and Thompson Street since 1957](https://ny.eater.com/2013/3/29/6458861/arturos-a-pizzeria-full-of-old-school-village-charm), so classic Greenwich Village-cool is part of the appeal. I perhaps missed the full Arturo’s charm by picking up my order, but based on those few minutes of jazz-infused magic I would definitely tag this place as a great option for impressing out-of-towners.
+Arturo’s has been slinging pizza <a href='https://ny.eater.com/2013/3/29/6458861/arturos-a-pizzeria-full-of-old-school-village-charm' target='blank'>at the same corner of Houston and Thompson Street since 1957</a>, so classic Greenwich Village-cool is part of the appeal. I perhaps missed the full Arturo’s charm by picking up my order, but based on those few minutes of jazz-infused magic I would definitely tag this place as a great option for impressing out-of-towners.
 
 Ambiance aside, the big question for me always boils down to: *How is that pizza, tho?*
 

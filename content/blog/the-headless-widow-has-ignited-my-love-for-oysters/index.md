@@ -5,7 +5,7 @@ description: Burgers, beer and bivalves, what more can a man want on a Saturday 
 img: ./HeadlessWidowOysters.jpeg # Add image post (optional)
 tags: [East Village, oystesr, burgers]
 ---
-I arrived with a friend at The Headless Widow yesterday right around Happy Hour, where oysters were $1 a pop — with the requirement that you order a drink with your side of bivalves.
+I arrived with a friend at <a href='https://www.theheadlesswidow.com/' target='blank'>The Headless Widow</a> yesterday right around Happy Hour, where oysters were $1 a pop — with the requirement that you order a drink with your side of bivalves.
 
 I hadn’t had a sip of alcohol since 2017, for various non-dramatic reasons — religion, taste preference, a general desire to be in control of my faculties. But here I was, 5 p.m. on Saturday and famished but for that morning’s breakfast sandwich + cookie + sticky bun combo, and suddenly forced into a devil’s bargain of drinking alcohol with my noshing!
 

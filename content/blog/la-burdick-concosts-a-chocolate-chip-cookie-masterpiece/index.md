@@ -5,7 +5,7 @@ description: I've crossed oceans of time to find you, Burdick Cookie...
 img: ./LABurdickCookie.jpeg # Add image post (optional)
 tags: [cookie, Soho] # add tag
 ---
-Surrounded by the chocolate bars and bon-bons in L.A. Burdick’s elegant Prince Street storefront, one could easily overlook the glass-domed stack of chocolate chip cookies by the register.
+Surrounded by the chocolate bars and bon-bons in <a href='https://www.burdickchocolate.com/' target='blank'>L.A. Burdick’s</a> elegant Prince Street storefront, one could easily overlook the glass-domed stack of chocolate chip cookies by the register.
 
 But cookie monsters, heed my call: L.A. Burdick bakes up one of the best cookies in the entire city.
 

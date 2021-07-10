@@ -6,7 +6,7 @@ img: ./SmashedMac.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [burgers, Lower East Side] # add tag
 ---
-Smashed, a hip new Lower East Side burger joint, is dishing out ultra-thin, crispy patties that feel about as true to the original midwest smashburger form as you can get.
+<a href='https://www.instagram.com/smashednyc/?hl=en' target='blank'>Smashed</a>, a hip new Lower East Side burger joint, is dishing out ultra-thin, crispy patties that feel about as true to the original midwest smashburger form as you can get.
 
 The menu is almost entirely burger-focused — with single, double and triple patty smashes, Impossible meat options and a trio of signature burgers. I went for a double-smash for my first go-round this afternoon, and opted out of the beef fat fries — which are supposedly excellent — with the intuition that I may want to save room for more burger.
 

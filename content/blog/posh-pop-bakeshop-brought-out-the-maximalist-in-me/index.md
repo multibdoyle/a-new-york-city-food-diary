@@ -5,9 +5,9 @@ description: The Churro Dulce de Leche Cake called out to me, and I answered...
 img: ./PoshPopPastries_Small.jpeg # Add image post (optional)
 tags: [Greenwich Village, cake, brownies, cheesecake, cookies & cream] # add tag
 ---
-I was in the mood to experiment yesterday. Maybe I was inspired by the hot new blog layout, or maybe I was just just delirious from the 90-degree heat wave; in either case, the time was ripe for getting my Isaiah 43:19 on and trying a new thing. 
+I was in the mood to experiment yesterday. Maybe I was inspired by the hot new blog layout, or maybe I was just just delirious from the 90-degree heat wave; in either case, the time was ripe for getting my <a href='https://www.kingjamesbible.me/Isaiah-43-19/#:~:text=%E2%80%9CBehold%2C%20I%20will%20do%20a,and%20rivers%20in%20the%20desert.%E2%80%9D' target='blank'>Isaiah 43:19</a> on and trying a new thing. 
 
-Cue a jaunt up the block to Posh Pop Bakeshop, the pink-plastered Bleecker Street storefront with over 100k Instagram followers and a maximalist array of mega-sized cookies, candy-stuffed brownies and post-impressionist colored layer cakes. 
+Cue a jaunt up the block to <a href='https://www.instagram.com/poshpopbakeshop/?hl=en' target='blank'>Posh Pop Bakeshop</a>, the pink-plastered Bleecker Street storefront with over 100k Instagram followers and a maximalist array of mega-sized cookies, candy-stuffed brownies and post-impressionist colored layer cakes. 
 
 As I considered the abundance of attention-grabbers in the display case, the Churro Dulce de Leche layer cake seemed to call to me. Frosted with dreamy swirls of caramel, chocolate and vanilla buttercream, I was drawn to the cake with the same intuition some people are drawn to choose a puppy out of a litter: deep called unto deep, and I had to respond. 
 
