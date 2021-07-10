@@ -22,9 +22,6 @@ Unsettled, I put the carton down and decided to wait until later to eat the rest
 
 Twenty minutes later, when I got off the Zoom and dug into the Chopped Cheese Biscuit, my worst fears about Butterfunk were slightly quelled — the sandwich was a delicious, cheesy, beefy symphony. The onions provided crucial grease and crunch, and the biscuit, though a smidge overdone on the exterior, eventually softened into a pleasing bready mush.
 
-<div class="Image__Small">
-  <img src="./BiscuitChoppedCheese.jpeg" alt="biscuit chopped cheese" />
-</div>
 
 After scooping up the last of the biscuit and beef, I tentatively tucked into the shortcake; this second go-round proved slightly more — ahem — fruitful. The yellow balls turned out to be fresh gooseberries, tart and juicy, and the sliced strawberries and blueberries were also perfectly ripe. Healthy dollops of whipped cream did just enough to moisten the bread bites into a palatable dessert.
 
