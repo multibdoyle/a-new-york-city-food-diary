@@ -1,5 +1,6 @@
 import { Link } from 'gatsby'
 import React from 'react'
+import AdSense from 'react-adsense';
 
 
 import skeleton_praying_new_tn from './skeleton_praying_new_tn.jpg'
@@ -18,6 +19,14 @@ const Sidebar = ({ siteMetadata }) => (
           <p>{siteMetadata.description}</p>
         </div>
       </header>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<AdSense.Google
+  client="ca-pub-4361545941367587"
+  slot='5109230294'
+  style={{ display: 'block' }}
+  layout='in-article'
+  format='fluid'
+/>
       <footer>
         <section className="contact">
           <h3 className="contact-title">Contact me</h3>
