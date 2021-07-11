@@ -20,13 +20,7 @@ const Sidebar = ({ siteMetadata }) => (
         </div>
       </header>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<AdSense.Google
-  client="ca-pub-4361545941367587"
-  slot='5109230294'
-  style={{ display: 'block' }}
-  layout='in-article'
-  format='fluid'
-/>
+
       <footer>
         <section className="contact">
           <h3 className="contact-title">Contact me</h3>
