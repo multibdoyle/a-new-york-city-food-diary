@@ -1,9 +1,9 @@
 ---
 title: The Headless Widow Has Ignited My Love for Oysters
-date: 2021-05-01 00:00:00 +0000
+date: 2021-04-18 00:00:00 +0000
 description: Burgers, beer and bivalves, what more can a man want on a Saturday night?
 img: ./HeadlessWidowOysters.jpeg # Add image post (optional)
-tags: [East Village, oystesr, burgers]
+tags: [East Village, oysters, burgers]
 ---
 I arrived with a friend at <a href='https://www.theheadlesswidow.com/' target='blank'>The Headless Widow</a> yesterday right around Happy Hour, where oysters were $1 a pop — with the requirement that you order a drink with your side of bivalves.
 

@@ -7,7 +7,7 @@ tags: [West Village, pizza] # add tag
 ---
 F. Scott Fitzgerald wrote, “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
 
-New York City is full of those creative tensions - in the neighborhoods, in the arts, and certainly in the food. To that extent, Two Boots - the now-nationwide pizza joint founded on Avenue A in 1987 - is either a restaurant with a severe ongoing identity crisis, or a pantheon of opposing cultural and culinary ideas held together by truly first-rate minds.
+New York City is full of those creative tensions - in the neighborhoods, in the arts, and certainly in the food. To that extent, <a href='https://twoboots.com/' target='blank'>Two Boots</a> - the now-nationwide pizza joint founded on Avenue A in 1987 - is either a restaurant with a severe ongoing identity crisis, or a pantheon of opposing cultural and culinary ideas held together by truly first-rate minds.
 
 The eponymous ‘two boots’ are Louisiana and Italy - which, prior to becoming a fan of Two Boots, I didn’t know Louisiana was considered to be shaped like a boot. I’d say it looks more like a clodhopper fit for swamp-sledging, in contrast to Italy’s slim and elegant lady’s knee-high. Either way, the restaurant mashes together flavors of New Orleans with the great Italian pizza tradition, and tosses in some serious indie filmmaking roots to give their menu an eclectic, cult-theater-from-the-1990s vibe. Some of their more popular pies include The Bayou Beast - a personal fave, featuring andouille sausage, crawfish and shrimp -- and The Mr. Pink, with creole chicken, plum tomatoes and fresh garlic.
 

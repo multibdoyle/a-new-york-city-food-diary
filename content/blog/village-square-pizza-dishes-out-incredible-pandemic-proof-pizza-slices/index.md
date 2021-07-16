@@ -5,7 +5,7 @@ description: Let me set the record straight after OneBite's middling review...
 img: ./VillageSquarePizza.jpeg # Add image post (optional)
 tags: [Alphabet City, pizza, OneBite] # add tag
 ---
-When Village Square Pizza opened in April 2019, Barstool Sports founder and One Bite pizza reviewer Dave Portnoy issued probably the meanest good review I’ve ever seen. Speaking on-camera to one of the Village Square co-founders, Portnoy declared he had just come back from Las Vegas and was "on a different planet … so tired … I have no feeling, I have no compassion, I have no nothin,” then took a bite of a plain cheese slice. And another. And another and another. One bite, everyone knows the rules!
+When <a href='http://villagesquarepizzanyc.com/' target='blank'>Village Square Pizza</a> opened in April 2019, Barstool Sports founder and One Bite pizza reviewer Dave Portnoy issued probably the <a href='https://www.youtube.com/watch?v=nil3KqEx7dM' target='blank'>meanest good review</a> I’ve ever seen. Speaking on-camera to one of the Village Square co-founders, Portnoy declared he had just come back from Las Vegas and was "on a different planet … so tired … I have no feeling, I have no compassion, I have no nothin,” then took a bite of a plain cheese slice. And another. And another and another. One bite, everyone knows the rules!
 
 After a long and funny stare-down with the co-founder, a few peremptory finger raises and several more bites, Portnoy finally came out with his verdict: 7.6 out of 10. “It’s a good, solid slice.” The disappointment from the co-founder was palpable and more than a little awkward — he took a step back, grimaced, tossed his towel over his shoulder and shook his head, saying he had been hoping for a score "in the 8’s, the high 8’s.”
 

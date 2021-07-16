@@ -5,7 +5,7 @@ description: Doodle puppies under the table had no influence on this review.
 img: ./ZazzysPizza.jpeg # Add image post (optional)
 tags: [Lower East Side, pizza] # add tag
 ---
-Zazzy’s is a three-month-old, mood-lit corner spot on Stanton & Orchard with mugshot-art of supermodels on the walls and beautiful pizzas behind glass at the counter.
+<a href='https://www.vesuvio-bakery.com/' target='blank'>Zazzy’s</a> is a three-month-old, mood-lit corner spot on Stanton & Orchard with mugshot-art of supermodels on the walls and beautiful pizzas behind glass at the counter.
 
 No, this isn’t a frozen-state blog post from 2017; Zazzy’s soft-opened in November 2020 — billing itself as a vegan / health-conscious option — and has officially made it through NYC’s winter indoor-dining lockdown to see Valentine’s Day weekend, and the reopening of indoor dining.
 
