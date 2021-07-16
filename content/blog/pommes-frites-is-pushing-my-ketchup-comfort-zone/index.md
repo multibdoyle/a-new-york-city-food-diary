@@ -5,7 +5,7 @@ description: Dat zijn goede frietjes, ya?
 img: ./PommesFrites.jpeg # Add image post (optional)
 tags: [Greenwich Village, french fries] # add tag
 ---
-Pommes Frites on Macdougal Street sells french fries, and only french fries — thick-cut and twice-fried, Belgian-style. The current location is a below-ground sliver of a walk-in space, paneled with unburnished timber; it’s one of the prettier takeaway joints you’ll find in the neighborhood.
+<a href='https://www.pommesfritesnyc.com/' target='blank'>Pommes Frites</a> on Macdougal Street sells french fries, and only french fries — thick-cut and twice-fried, Belgian-style. The current location is a below-ground sliver of a walk-in space, paneled with unburnished timber; it’s one of the prettier takeaway joints you’ll find in the neighborhood.
 
 I stopped by Pommes Frites while walking through Greenwich Village this afternoon. Confronting the 40+ sauce options on the Old European-fonted wooden menu, my brain started to frizz out a bit. Analysis paralysis can be a real struggle at Pommes Frites.
 

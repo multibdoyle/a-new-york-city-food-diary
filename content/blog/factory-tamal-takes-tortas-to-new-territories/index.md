@@ -6,7 +6,7 @@ img: ./LonganisaTorta.jpeg # Add image post (optional)
 tags: [Soho, eclairs, cookies, pastries] # add tag
 ---
 
-Today was a scintillating, hot mess in the East Village, and I came upon Factory Tamal just moments away from hopping on a CitiBike and making my dramatic escape back to the west side.
+Today was a scintillating, hot mess in the East Village, and I came upon <a href='https://www.factorytamal.com/' target='blank'>Factory Tamal</a> just moments away from hopping on a CitiBike and making my dramatic escape back to the west side.
 
 The prospect of tamales pulled me in, but the torta menu kept me engaged. Conceptually, tortas have everything I want in a cheat meal — fluffy bread, cheese, meat and spice — but rarely do these Mexican specialties make their way into my Saturday rotation. Call it a supply problem — tortas are not quite as common as burritos and tacos in downtown Manhattan — or just blame my basic tastes for pizza and burgers. Either way, today was as good as any to give tortas their fair shake.
 

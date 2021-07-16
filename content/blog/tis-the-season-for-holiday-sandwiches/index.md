@@ -7,7 +7,7 @@ tags: [East Village, fried chicken] # add tag
 ---
 My tastes don’t necessarily change with the seasons - I’m as liable to crave a cheeseburger and fries on Christmas Eve as I am on July 4th - but I am a bit of a sucker when it comes to limited-time seasonal menu items. Once the leaves start a-cracklin’ and the temperatures start a-droppin’, you best be comin’ correct with the pumpkin spice and apple cider flavoring. I’m eating and drinking all that.
 
-So with Blue Ribbon Fried Chicken’s “The Chicken Gobbler,” my impetus for ordering wasn’t so much a craving for Thanksgiving foods - though I do appreciate my once-yearly serving of stuffing and cranberry sauce - as it was about - oh, there’s probably a French or German word for it - let’s just say “enjoying the moment?”
+So with <a href='https://www.blueribbonfriedchicken.com/' target='blank'>Blue Ribbon Fried Chicken’s</a> “The Chicken Gobbler,” my impetus for ordering wasn’t so much a craving for Thanksgiving foods - though I do appreciate my once-yearly serving of stuffing and cranberry sauce - as it was about - oh, there’s probably a French or German word for it - let’s just say “enjoying the moment?”
 
 Profite de l’instant. There, that looks so much better; it was hella Fall out, and I was trying to profit in the instant.
 

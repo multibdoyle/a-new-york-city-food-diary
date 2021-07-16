@@ -5,7 +5,7 @@ description: COVID dampened the Christmas spirits, but it couldn't dampen the Ch
 img: ./RubirosaPizza.jpeg # Add image post (optional)
 tags: [pizza, Nolita, Christmas] # add tag
 ---
-As far as I can tell, the maelstrom of 2020 has done little to dim Nolita’s shine as a pizza haven; the lines are still down the block for Prince Street Pizza, Lombardi’s has started offering individual slices out of the ol’ coal oven, and new-school sit-down establishments like Rubirosa have continued to feed the pizza-hungry masses with excellent whole pies via delivery.
+As far as I can tell, the maelstrom of 2020 has done little to dim Nolita’s shine as a pizza haven; the lines are still down the block for Prince Street Pizza, Lombardi’s has started offering individual slices out of the ol’ coal oven, and new-school sit-down establishments like <a href='https://www.rubirosanyc.com/' target='blank'>Rubirosa Ristoranta</a> have continued to feed the pizza-hungry masses with excellent whole pies via delivery.
 
 My only prior experience with Rubirosa was earlier this year, when a friend of mine claimed to have become ‘addicted’ and ordered their pizza at least three times in one week. Now, I’ve had worse addictions, but Rubirosa does operate on a tried-and-true formula; the founder, Angelo Pappalardo, uses the same thin cracker-style crust as Joe & Pat’s, the Staten Island pizza institution started by his dad, Giuseppe.
 

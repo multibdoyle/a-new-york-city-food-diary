@@ -6,7 +6,7 @@ img: ./RoccoCookiesandCheesecake.jpeg # Add image post (optional)
 tags: [cookies, cheesecake, pastry, West Village] # add tag
 ---
 
-Italian immigrant Rocco Generoso, Sr. officially opened Pasticceria Rocco in 1974, after buying the storefront from the bakery where he had worked the prior 18 years. Today, Pasticceria Rocco maintains one of the most diverse collections of pastries anywhere in the city. Whether you’re in the mood for cheesecake, or layer cake, or cannolis, or tiramisu, or croissants, or fruit pies, or lobster tails, or **bum bum bum** extra-large soft cookies….. Pasticceria Rocco has got you covered.
+Italian immigrant Rocco Generoso, Sr. officially opened <a href='https://pasticceriarocco.com/' target='blank'>Pasticceria Rocco</a> in 1974, after buying the storefront from the bakery where he had worked the prior 18 years. Today, Pasticceria Rocco maintains one of the most diverse collections of pastries anywhere in the city. Whether you’re in the mood for cheesecake, or layer cake, or cannolis, or tiramisu, or croissants, or fruit pies, or lobster tails, or **bum bum bum** extra-large soft cookies….. Pasticceria Rocco has got you covered.
 
 I took a walk down Bleecker Street to pick up some Saturday night treats from the bakery earlier this evening. Really, I already knew what I was going to get — their M&M cookies are like a big, easy, soft weighted blanket for my stomach. I doubt these cookies were part of Papa Rocco’s original old-world recipe index, but the bakery seems to be aware they’re an attention-getter. The extra-large cookies line the windows of the bakery every morning, stacked up like so many doughy dinner plates, beckoning downtown denizens to break their weekday diets for a taste of sugary Italian heaven.
 

@@ -5,7 +5,7 @@ description: Just a good ol' fashioned genetically engineered soy burger with ca
 img: ./PopsBurgerandFries_Small.jpeg # Add image post (optional)
 tags: [burgers, vegetarian, Alphabet City] # add tag
 ---
-Pops Eat-Rite is a new school burger joint following an old school template. Their core specialty — smashed-and-griddled plant-based burgers — is set in the tradition of fast-casual grandaddies like McDonalds or In-N-Out, with the sort of primary-colored and bold-lined aesthetic that could only come about from a fast food spot born on St. Mark’s Place.
+<a href='https://www.popseatrite.com/' target='blank'>Pops Eat-Rite</a> is a new school burger joint following an old school template. Their core specialty — smashed-and-griddled plant-based burgers — is set in the tradition of fast-casual grandaddies like McDonalds or In-N-Out, with the sort of primary-colored and bold-lined aesthetic that could only come about from a fast food spot born on St. Mark’s Place.
 
 Endless Hospitality Group opened up Pops as a takeout-and-delivery storefront in September of last year, a quick strategy pivot which helped them hire back staff furloughed from their other neighborhood spots including The Wayland and Goodnight Sonny. According to the cashier I talked to today, business has been great. Pops’ inside space, of course currently off-limits for seating, looks decently expansive; I could image Pops functioning both as a casual, off-kilter date spot or a place to stop in to meet with friends before taking a stroll through Tompkins Square. I look forward to seeing how Endless Hospitality makes use of the space once COVID restrictions are lifted.
 

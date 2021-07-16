@@ -6,11 +6,11 @@ img: ./MikeyLikesIt_Smallest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Alphabet City, ice cream] # add tag
 ---
-Serving food with love is one of Michael ‘Mikey’ Cole’s prerogatives. He told me so himself, one snowy evening in 2017, when I ordered a hot chocolate with ice cream at his Alphabet City institution, Mikey Likes it, and received a cup nearly overflowing with bubbling chocolate. He lightheartedly ribbed the server for the overfull cup, before reassuring me that I got the ‘extra love.’
+Serving food with love is one of Michael ‘Mikey’ Cole’s prerogatives. He told me so himself, one snowy evening in 2017, when I ordered a hot chocolate with ice cream at his Alphabet City institution, <a href='https://mikeylikesiticecream.com/' target='blank'>Mikey Likes It,</a> and received a cup nearly overflowing with bubbling chocolate. He lightheartedly ribbed the server for the overfull cup, before reassuring me that I got the ‘extra love.’
 
 That hot chocolate was, bar none, the best hot chocolate I’ve ever had in my life.
 
-Mikey recently told amNY how his beloved aunt taught him to ‘put love into it,’ years before he pivoted a vanilla ice cream recipe from one of her cookbooks into his signature ‘Ice Ice Baby’ flavor. Even when he was forced to temporarily shutter both his Alphabet City and Harlem storefronts in 2020, he continued to spread the love by hand-delivering pints of ice cream himself across Manhattan, as well as helping lead the distribution of 400 turkeys and 300 coats during Thanksgiving and Christmas.
+Mikey <a href='https://www.amny.com/news/man-behind-mikey-likes-it-ice-cream-continues-to-give-back-to-new-york-city-community/' target='blank'>recently told amNY how his beloved aunt taught him to ‘put love into it,’</a> years before he pivoted a vanilla ice cream recipe from one of her cookbooks into his signature ‘Ice Ice Baby’ flavor. Even when he was forced to temporarily shutter both his Alphabet City and Harlem storefronts in 2020, he continued to spread the love by hand-delivering pints of ice cream himself across Manhattan, as well as helping lead the distribution of 400 turkeys and 300 coats during Thanksgiving and Christmas.
 
 The storefronts are back open now — replete with celebrity-adorned clockfaces — and, I can attest, the Mikey love is still going very, very strong.
 

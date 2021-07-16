@@ -6,7 +6,7 @@ img: ./Morgensterns_Burgers.jpeg # Add image post (optional)
 tags: [ice cream, burgers, Greenwich Village] # add tag
 ---
 
-Nick Morgenstern, the celebrated namesake and megamind behind Morgenstern’s Finest Ice Cream, <a href='https://stories.zagat.com/posts/nick-morgenstern-on-ice-cream-zeitgeist-and-escaping-new-york' target='blank'>posted an article to Zagat</a> recently (but not too recently) in which, among a few choice words for Mayor de Blasio, he painted a grim portrait for his future in New York.  
+Nick Morgenstern, the celebrated namesake and megamind behind <a href='https://www.morgensternsnyc.com/' target='blank'>Morgenstern’s Finest Ice Cream</a>, <a href='https://stories.zagat.com/posts/nick-morgenstern-on-ice-cream-zeitgeist-and-escaping-new-york' target='blank'>posted an article to Zagat</a> recently (but not too recently) in which, among a few choice words for Mayor de Blasio, he painted a grim portrait for his future in New York.  
 
 “The big picture … is that we’ve got to get out of here, because New York City has become untenable for small business.”
 

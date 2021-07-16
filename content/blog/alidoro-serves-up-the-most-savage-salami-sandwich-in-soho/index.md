@@ -5,7 +5,7 @@ description: Warning - Salty meats ahead...
 img: ./Alidoro_Sandwich.jpeg # Add image post (optional)
 tags: [Soho, sandwiches] # add tag
 ---
-Alidoro in Soho serves up the kind of hearty, meaty Italian subs you could mull over for an entire afternoon — or at least through an episode of Rick of Morty, which is what I did with my Pinocchio sandwich yesterday.
+<a href='https://www.alidoronyc.com/' target='blank'>Alidoro</a> in Soho serves up the kind of hearty, meaty Italian subs you could mull over for an entire afternoon — or at least through an episode of Rick of Morty, which is what I did with my Pinocchio sandwich yesterday.
 
 The sandwich came packed heavy with soppressata layers, salty enough to suck your buds dry for the day. I assure you, the flavor is worth the dehydration! A beautiful translucent sliver of prosciutto peaked out below the slightly moist, soft slab of mozzarella, and sweet roasted peppers and olive paste completed the sandwich, which I ordered on sfilatino bread — a slightly softer version of a baguette.
 

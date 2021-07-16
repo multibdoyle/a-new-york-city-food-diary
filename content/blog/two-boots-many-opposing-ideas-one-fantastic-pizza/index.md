@@ -5,7 +5,7 @@ description: The pizza-slingers at Two Boots pass F. Scott Fitzgerald's test for
 img: ./TwoBootsPizza.jpeg # Add image post (optional)
 tags: [West Village, pizza] # add tag
 ---
-F. Scott Fitzgerald wrote, “The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
+F. Scott Fitzgerald wrote, <a href='https://www.goodreads.com/quotes/64918-the-test-of-a-first-rate-intelligence-is-the-ability-to' target='blank'>“The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”</a>
 
 New York City is full of those creative tensions - in the neighborhoods, in the arts, and certainly in the food. To that extent, <a href='https://twoboots.com/' target='blank'>Two Boots</a> - the now-nationwide pizza joint founded on Avenue A in 1987 - is either a restaurant with a severe ongoing identity crisis, or a pantheon of opposing cultural and culinary ideas held together by truly first-rate minds.
 

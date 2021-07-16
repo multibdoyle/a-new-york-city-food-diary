@@ -6,7 +6,7 @@ img: ./TheDutchBurger_Small.jpeg # Add image post (optional)
 tags: [Soho, burger, desserts, cake, cornbread] # add tag
 ---
 
-The Dutch is a beautiful restaurant with beautiful food and — frankly — usually beautiful clientele. Even with the impossibly limiting restrictions on NYC dining in 2020, Andrew Carmellini’s bistro at the corner of Sullivan and Prince has remained a bustling Soho hotspot for those who are always striving and prospering.
+<a href='https://www.thedutchnyc.com/' target='blank'>The Dutch</a> is a beautiful restaurant with beautiful food and — frankly — usually beautiful clientele. Even with the impossibly limiting restrictions on NYC dining in 2020, Andrew Carmellini’s bistro at the corner of Sullivan and Prince has remained a bustling Soho hotspot for those who are always striving and prospering.
 
 Given so much of my year was spent barely maintaining my hold on reality rather than concertedly crushing it, I was struck with a wee bit of imposter syndrome when deciding whether to dine at The Dutch last weekend. The Dutch is not where one goes to celebrate ‘maintaining.’
 

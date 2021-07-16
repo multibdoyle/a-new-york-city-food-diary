@@ -5,7 +5,7 @@ description: But it did take some work to organize those meatballs....
 img: ./LilFrankiesPizza.jpeg # Add image post (optional)
 tags: [East Village, pizza] # add tag
 ---
-A stellar OneBite score, fawning review from The Infatuation and overall ‘cool restaurant’ reputation have long drawn me to Lil’ Frankie’s in the East Village, but until yesterday, I historically had issues booking myself a meal. I attribute most of the missed connections to the fact that Lil’ Frankie’s is almost always out of pizza and only offering pastas and flatbreads when I browse their UberEats menu.
+A <a href='https://onebite.app/restaurant/lil-frankies-new-york-ny-c49b4593' target='blank'>stellar OneBite score</a>, <a href='https://www.theinfatuation.com/new-york/reviews/lil-frankies' target='blank'>fawning review from The Infatuation</a> and overall ‘cool restaurant’ reputation have long drawn me to <a href='https://www.lilfrankies.com/' target='blank'>Lil’ Frankie’s</a> in the East Village, but until yesterday, I historically had issues booking myself a meal. I attribute most of the missed connections to the fact that Lil’ Frankie’s is almost always out of pizza and only offering pastas and flatbreads when I browse their UberEats menu.
 
 Maybe the pizza shortage is because I’m usually deep into UberEats close to midnight on Saturdays. I donno. But yesterday, popping into Lil’ Frankie’s profile around 5 p.m., I was pleased to see the ravenous hordes had not yet eaten all the Neapolitans. The time for a NYC Diary rating of Lil’ Frankie’s was nigh!
 

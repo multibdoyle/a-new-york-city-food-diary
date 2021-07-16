@@ -9,7 +9,7 @@ In this tragi-comic year of 2020, a lot of people have been forced to confront l
 
 Fortunately for me, I already knew what really mattered in life going into 2020 — the answer is always love. So rather than reinvent a set of values, I’ve begun to indulge a long-teased, slow-burning love affair with ice cream. Not until 2020 did I appreciate the deep depths of deliciousness and comfort a pint of ice cream can deliver for the soul.
 
-Integral to my amour de la glace is Van Leeuwen’s variety of oat milk ice creams, packaged in soft-focus millennial-nursery colors and whipped together with all the local artisanal flavors you’d expect from a Brooklyn-based creamery.
+Integral to my amour de la glace is <a href='https://vanleeuwenicecream.com/' target='blank'>Van Leeuwen’s variety of oat milk ice creams</a>, packaged in soft-focus millennial-nursery colors and whipped together with all the local artisanal flavors you’d expect from a Brooklyn-based creamery.
 
 As a guy who has always tended towards ultra-chunky mix-ins, the Brown Sugar Chunk seemed right up my alley. Brownies, cookie dough and candied oat clusters compete for top-billing in a brown sugar oat milk base, which Van Leeuwen’s website describes as a ‘maximalist’s dream.’
 

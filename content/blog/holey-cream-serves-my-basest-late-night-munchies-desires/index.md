@@ -5,9 +5,9 @@ description: Over 5,400 different options...gotta try 'em all!
 img: ./HoleyCream.jpeg # Add image post (optional)
 tags: [UberEats, ice cream, donuts] # add tag
 ---
-Ordering desserts for delivery can be anxiety-inducing — only a few bakeries in Manhattan deliver during late-night ‘stoner’ hours (not that I *ahem* dabble anymore), and I’m constantly forced to ask myself questions like, 'Does this $6 slice of cake I’m craving really justify the $7.78 service fee?'
+Ordering desserts for delivery can be anxiety-inducing — only a few bakeries in Manhattan deliver during late-night ‘stoner’ hours (not that I *ahem* dabble anymore), and I’m constantly forced to ask myself questions like, "Does this \$6 slice of cake I’m craving really justify the $7.78 service fee?"
 
-So in between the dual stresses of beating the Uber Eats small order fee while also not consuming so much sugar you go to bed wheezing, in comes Holey Cream — a 3rd Avenue storefront that serves up, among other things, a very hefty donut ice cream sandwich for $8.75 (plus $0.95 for extra toppings).
+So in between the dual stresses of beating the Uber Eats small order fee while also not consuming so much sugar you go to bed wheezing, in comes <a href='https://www.holeycreamnewyorkny.com/' target='blank'>Holey Cream</a> — a 3rd Avenue storefront that serves up, among other things, a very hefty donut ice cream sandwich for \$8.75 (plus $0.95 for extra toppings).
 
 As far as variety goes, Holey Cream has got flavor permutations out the wazoo — I had to throw their menu list into a spreadsheet to do the talley, and I’m seeing 47 ice cream flavors, 29 topping options, and 4 donut types. That’s *cue fifth grade math skills* 5,452 possible combinations for a donut ice cream sandwich! Oh, the wonders of capitalism.
 

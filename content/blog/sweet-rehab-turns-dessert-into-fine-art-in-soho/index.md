@@ -6,7 +6,7 @@ img: ./SweetRehabEclair_Small.jpeg # Add image post (optional)
 tags: [Soho, dessert, eclairs, cookies, pastries] # add tag
 ---
 
-I live right above Sweet Rehab — a Sullivan Street storefront with imported Parisian furniture and a distinctive honeybee logo — and am greeted with the smell of toasting butter and sugar whenever I walk into the apartment lobby. Yes, I am blessed.
+I live right above <a href='https://www.instagram.com/sweetrehabny/?hl=en' target='blank'>Sweet Rehab</a> — a Sullivan Street storefront with imported Parisian furniture and a distinctive honeybee logo — and am greeted with the smell of toasting butter and sugar whenever I walk into the apartment lobby. Yes, I am blessed.
 
 But even as a neighbor, I only step into Sweet Rehab about once every few months. The pastries are sculpted and multi-layer design pieces; master baker David Zaquine — the son of a chocolatier and a fashion designer — says his inspiration “mostly comes from fashion.”
 

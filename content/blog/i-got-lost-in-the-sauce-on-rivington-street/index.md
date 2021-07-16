@@ -5,7 +5,7 @@ description: Sauce Pizzeria is the best .... finally, something Dave Portnoy and
 img: ./SaucePizza.jpeg # Add image post (optional)
 tags: [pizza, Lower East Side] # add tag
 ---
-Sauce Pizzeria is already written in the history books for Dave Portnoy’s 9.1 review of their plain cheese slice, which he called “just about the best slice ... I’ve ever had.”
+<a href='https://www.saucepizzeria.com/' target='blank'>Sauce Pizzeria</a> is already written in the history books for <a href='https://onebite.app/restaurant/sauce-pizzeria-new-york-ny-db8dde16' target='blank'>Dave Portnoy’s 9.1 review of their plain cheese slice,</a> which he called “just about the best slice ... I’ve ever had.”
 
 High praise coming from El Prez, and a review which — unlike some of Portnoy’s other pizza opinions — I can fully get behind. I’ve recommended Sauce Pizzeria to multiple friends since the Rivington Street spot opened in September 2018 — adjacent to the family-owned sit-down restaurant, also called Sauce — and they have been one of my most consistent go-tos for Saturday afternoon slices.
 
