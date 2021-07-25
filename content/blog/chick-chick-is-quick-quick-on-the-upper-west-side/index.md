@@ -1,5 +1,5 @@
 ---
-title: Chick Chick Delivers Sweet Satuday Serendipity on the Upper West Side
+title: Chick Chick Delivers Sweet Saturday Serendipity on the Upper West Side
 date: 2021-07-24 00:00:00 +0300
 description: Wherein Eggdays pops up in the East Village and into my heart.
 img: ./ChickChick_FrenchToast.jpeg # Add image post (optional)
