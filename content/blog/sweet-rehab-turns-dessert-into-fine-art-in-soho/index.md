@@ -8,11 +8,11 @@ tags: [Soho, dessert, eclairs, cookies, pastries] # add tag
 
 I live right above <a href='https://www.instagram.com/sweetrehabny/?hl=en' target='blank'>Sweet Rehab</a> — a Sullivan Street storefront with imported Parisian furniture and a distinctive honeybee logo — and am greeted with the smell of toasting butter and sugar whenever I walk into the apartment lobby. Yes, I am blessed.
 
-But even as a neighbor, I only step into Sweet Rehab about once every few months. The pastries are sculpted and multi-layer design pieces; master baker David Zaquine — the son of a chocolatier and a fashion designer — says his inspiration “mostly comes from fashion.”
+But even as a neighbor, I only step into Sweet Rehab about once every few months. The pastries are sculpted and multi-layered design pieces; master baker David Zaquine — the son of a chocolatier and a fashion designer — says his inspiration “mostly comes from fashion.”
 
 Just like high-fashion, the artistic experience is as important as the actual consumption; most desserts here are constructed on the spot. Locally-sourced fruits, honey and nuts feature heavily on the menu.
 
-And every single item I've had here has tasted — what’s the French word? — magnifique.
+And every single item I've had at Sweet Rehab has tasted — what’s the French word? — <i>magnifique.</i>
 
 Today, for no particular reason other than the weather was beautiful and I had actually finished my Central Park run, I decided to start the morning off with some Sweet Rehab luxury.
 
