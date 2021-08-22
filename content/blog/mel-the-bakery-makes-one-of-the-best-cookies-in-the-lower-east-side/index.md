@@ -8,7 +8,7 @@ tags: [Lower East Side, cookies, bakeries] # add tag
 
 <a href='https://www.melthebakery.com/' target='blank'>Mel the Bakery’s</a> founder and head baker, Nora Allen, is no stranger to fame <i>vis a vis</i> yeastie perfectionism. Prior to launching Mel, she garnered a <a href='https://www.foodandwine.com/cooking-techniques/baking/this-sourdough-whisperer-nora-allen-mel-bakery' target='blank'>nation-wide reputation as the “sourdough-whisperer,”</a> doling out advice to at-home pandemic bakers stymied by the slimy state of their sourdough starters. 
 
-Since launching Mel in September 2020, Allen has continued to evoke high-falutin praise from the culinary cognoscenti — <a href='https://www.foodandwine.com/news/mel-the-bakery-pandemic' target='blank'>Food & Wine Magazine described Mel’s as “Nora Allen's temple to local grains and natural leavening”</a> — and the bakery has become a must-visit for bread obsessives looking for house-milled loaves, bialys and focaccias. 
+Since launching Mel in September 2020, Allen has continued to evoke high-falutin praise from the culinary cognoscenti — <a href='https://www.foodandwine.com/news/mel-the-bakery-pandemic' target='blank'>Food & Wine Magazine described Mel as “Nora Allen's temple to local grains and natural leavening”</a> — and the bakery has become a must-visit for bread obsessives looking for house-milled loaves, bialys and focaccias. 
 
 Visiting Mel the Bakery’s handsome storefront at 1 Ludlow Street this afternoon, I was tempted to crush a few mid-day croissants — another crumb cornerstone which Allen has supposedly perfected — but I had to stick to my mission. I’m in cookie mode, ya’all, and can’t be distracted with any other cultured carbs. 
 
