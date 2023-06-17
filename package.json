@@ -19,12 +19,14 @@
     "@lekoarts/gatsby-theme-minimal-blog": "^6.0.5",
     "gatsby": "^5.9.0",
     "gatsby-plugin-feed": "^5.9.0",
+    "gatsby-plugin-google-gtag": "^5.10.0",
     "gatsby-plugin-manifest": "^5.9.0",
     "gatsby-plugin-sitemap": "^6.9.0",
     "gatsby-plugin-webpack-statoscope": "^1.0.2",
     "latest-version": "^7.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1"
   },
   "devDependencies": {
     "@types/node": "^18.16.3",
