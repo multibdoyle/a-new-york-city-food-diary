@@ -1,5 +1,6 @@
 import type { GatsbyConfig, PluginRef } from "gatsby"
 import "dotenv/config"
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
 
 
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
@@ -51,7 +52,13 @@ const config: GatsbyConfig = {
         },
       },
     },
-
+ 
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `your-disqus-shortname`
+      }
+    },
 
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
