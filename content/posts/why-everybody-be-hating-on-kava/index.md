@@ -20,13 +20,13 @@ It’s certainly not New York’s; <a href='https://www.change.org/p/re-open-kav
 
 While I don’t have all the details, I suspect part of the city’s beef with the kava bars may be related to their distribution of kratom - a stimulant from Southeast Asia which is a popular additive in teas and is also associated with psychosis and addiction. I had heard stories of Kavasutra bartenders having to turn away customers who would come in with gallon water-bottles, requesting to be filled up with kratom. 
 
-My one positive experience with kratom was at another Williamsburg kava bar, <a href = 'https://www.yelp.com/biz/ka-v%C3%A1-kava-bar-brooklyn' target = 'blank'>Ka-Vá Kava Bar (still open!)</a>, where i downed a few kava shells before sipping a red kratom tea and going to meet friends for dinner in late spring. The kratom had a nice ‘upper’ effect to offset the heaviness of the kava, and kept me chatty and sociable throughout the night.  
+My one positive experience with kratom was at another Williamsburg kava bar, <a href = 'https://www.yelp.com/biz/ka-v%C3%A1-kava-bar-brooklyn' target = 'blank'>Ka-Vá Kava Bar (still open!)</a>, where I downed a few kava shells before sipping a red kratom tea and going to meet friends for dinner in late spring. The kratom had a nice ‘upper’ effect to offset the heaviness of the kava, and kept me chatty and sociable throughout the night.  
 
 The next time I tried kratom, on some random Tuesday, my heart rate shot up from the mid-60s to about 100 in a matter of minutes. So, I appreciate the health concerns. 
 
 New York City authorities seem to have their hands full sussing out this brave new world of ‘all-natural’ substances, <a href = 'https://www.nytimes.com/2023/08/18/nyregion/nys-legal-marijuana-rollout-stalled.html' target = 'blank'>judging by the city’s scattershot approach to legal marijuana dispensaries.</a> I could understand if the closing of these kava bars were due to legitimate health cases, or even a ‘misunderstanding’ of some of the effects from the drinks. 
 
-For the sake of the community - and the many, many recovering alcoholics I met in Kavasutra - I do hope the city works with the business owners to remediate and re-open. Kava is a significantly safer substance than alcohol, and even marijuana; speaking as someone who had a massively unpleasant (legal) edible experience recently, kava’s tendency to freak out and induce panic is next to zero. 
+For the sake of the community - and the many, many recovering alcoholics I met in Kavasutra - I hope the city works with the business owners to remediate and re-open. Kava is a significantly safer substance than alcohol, and even marijuana; speaking as someone who had a massively unpleasant (legal) edible experience recently, kava’s tendency to freak out and induce panic is next to zero. 
 
 In the meantime, I’ll be alright; just keep the micronized Loa Waka coming, Kalm with Kava. 
 
