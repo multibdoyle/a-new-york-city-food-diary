@@ -1,0 +1,20 @@
+---
+title: My Top Restaurants of 2023
+date: 2023-12-31 00:00:00 +0000
+description: These spots are fire. 
+#img: ./VillageSquarePizza.jpeg # Add image post (optional)
+tags: [restaurants, Hells Kitchen, East Village, Soho, Italian food, pizza] # add tag
+---
+
+1. <a href = 'https://sesamorestaurant.com/'>Sesamo</a> - Itameshi - a fusion of Japanese and Italian cuisines which originated in Japan - is tossed with locally-sourced chef-driven innovation on Sesamo's menu, which rotates seasonally. The mix of small plates and pasta range from the artsy and minimalist (the apples and blue cheese with grilled honeycrisp apples and blue cheese stracciatella feels like a love letter to the Hudson Valley) to the decadent (the duck ragu pappardelle with garam masala and homemade rosemary is my winter happy place). I love Sesamo for its creativity, but they excel in the simple things as well. Frankly, I was hooked from the first bite of Anadama bread with housemade butter. 
+
+2. <a href = 'https://www.emmettsnyc.com/'> Emmett’s</a> - Putting a Chicago-style place as a favorite restaurant of the year required me to leap over the valley of cognitive dissonance, but this brick-laden MacDougal street comfort spot housed some of my favorite 2023 memories. The Hot Papi tavern-style pie, packed with pepperoni, red onions, jalapeno and house-made paprika ranch dressing, is a spicy, crunchy, messy midwestern masterpiece that goes down as smooth as a Goose Island IPA. The deep-dish Chicago style pizza and burgers are all also best-in-the-city status; the char cheddar burger in particular isn’t talked about enough in lists of the citys’ premier burgers. 
+
+3. <a href = 'https://www.the-marshal.com/'>The Marshal</a> - The Marshal in Hell’s Kitchen does wonders with a wood oven, dishing out lovely pizzas from an unassuming spot on 10th Avenue, just west of Times Square. An order of pizza and one of their excellent salads will cover most appetites, although Chef Charlie Marshall's locally-sourced menu ranges the gamut of comfort foods, including macaroni and cheese with a mozzarella mornay, pork meatballs, and one very decadent-looking burger, which I have yet to try (can’t wait for 2024). The Marshal scores big with its deep appreciation of Hudson Valley-sourced food, and exceptionally kind servers. To that end, I am not just ranking this place because Chef Marshall insinuated I was ‘very handsome’ (he was being polite when talking to my fiance). 
+
+4. <a href = 'https://www.lovelysoldfashioned.com/'>Lovely’s Old Fashioned</a> -  Lovely’s greasy little hand-held beef bombs are as affordable as they are addictive, and reminiscent of some of my first Five Guys burger experiences (if you know, you know). Lovely’s buy one, get one cheeseburger deal on Uber Eats was the soundtrack of my summer Sundays. Lovely’s also sells wedge-cut fries - maybe the only wedge-cut fries I actually enjoy - and a delicious little pistachio cake as part of their dessert package. Wonderful food aside, I also respect Lovely’s for holding out against the <a href='https://ny.eater.com/maps/best-smash-burgers-nyc'>tide of smash burgers</a>, which at times seems liable to overwhelm the entire New York burger scene. Stay old-fashioned, Lovely’s!
+
+5. <a href = 'https://www.vicsnewyork.com/'>Vic’s</a> - No doubt this up-casual Italian joint was part of what New York Times had in mind when they claimed that <a href= 'https://www.nytimes.com/2023/01/05/style/los-angeles-new-york.html'>Noho was turning into ‘little Los Angeles.’</a> While the massive, laid-back space in Noho is definitely ‘giving Malibu,’ Vics’ assortment of well-crafted pizzas and pastas are some of the best north of Houston and south of 14th. The servers are also super nice - when I forgot my coat, they texted me like a worried friend, including exclamation points. Got to love New Yorkers who have the space to be kind. Also, my moment of greatest spiritual peace in 2023 was going to dinner at Vic’s after exfoliating my demons at the Great Jones Spa. Any place that helps maintain my very-fragile chi is a winner for me. 
+
+
+
