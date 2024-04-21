@@ -8,7 +8,7 @@ tags: [Orchard Street Runners, ultramarathon, marathon, East Village, Lower East
 
 I love running, but unlike certain masochistic members of the cardio community, I don’t get my rocks off by proving how many long and painful miles I can slug out. I like a good tempo heart rate, I like to go fast (relatively) and I like to see as much of the city as possible before winding down and easing into brunch. Any race lasting an hour to 90 minutes is within my boundaries of ‘fun’; I have no desire to run long and hard miles for their own sake.
 
-However, the OSR30 - a 30-mile race around the perimeter of Manhattan, give or take a few bridges and cross-town detours - is a different sort of beast, and the only sort of ultra-marathon I’ve ever had the desire to attempt. Last year’s effort ended up being a 35.5 mile tromp, which I managed to pull through despite a very cold, whipping rain and a very dead rental e-bike for my bike escort, who ended up carrying the leaden junk over bridges, up steep dirt-hill inclines and along a narrow muddy strip bordering the Hudson River.
+However, <a href = 'https://www.athlinks.com/event/385833/results/Event/1077298/Course/2459738/Results'>the OSR30 - a 30-mile race around the perimeter of Manhattan</a>, give or take a few bridges and cross-town detours - is a different sort of beast, and the only sort of ultra-marathon I’ve ever had the desire to attempt. Last year’s effort ended up being a 35.5 mile tromp, which I managed to pull through despite a very cold, whipping rain and a very dead rental e-bike for my bike escort, who ended up carrying the leaden junk over bridges, up steep dirt-hill inclines and along a narrow muddy strip bordering the Hudson River.
 
 I still haven’t bought the guy enough beers to thank him. 
 
@@ -56,9 +56,9 @@ But George came away with the one-liner of the day.
 
 A fight always gets my Irish blood going, and I knew we were within 5 kilometers of the finish. I picked up the pace - pushing just below the 6:40 territory - and after posing at the Staten Island Terminal, let ‘er rip. 
 
-Besides a few painful calf knots as I ascended up the sloping hill of Pike Street, and a wrong turn at East Broadway - which very well may have cost me two places, as the 6th and 7th place finisher were all within seconds of me - the finish was as strong as I could have asked for. I clocked 29.5 miles in 3 hours and 20 seconds, feeling great. Feeling, in fact, like I had more in the tank. 
+Besides a few painful calf knots as I ascended up the sloping hill of Pike Street, and a wrong turn at East Broadway - which very well may have cost me two places, as the 6th and 7th place finisher were all within seconds of me - the finish was as strong as I could have asked for. I clocked 29.5 miles in 3 hours and 20 minutes, feeling great. Feeling, in fact, like I had more in the tank. 
 
-But, that will be for next year. I proceeded to eat heaping plates of spaetzle, mashed potatoes and meatballs courtesy of Cafe Katja. The line for beer was too long, else I would’ve gotten myself a steiner. No matter; I would have more than my share of drinks later that night, when I bounced between the West Village with George and the East Village with my biker from the prior year, Matt. Many espresso martinis were quaffed.
+I proceeded to eat heaping plates of spaetzle, mashed potatoes and meatballs courtesy of Cafe Katja. The line for beer was too long, else I would’ve gotten myself a steiner. No matter; I had more than my share of drinks later that night, when I bounced between the West Village with George and the East Village with my biker from the prior year, Matt. Many espresso martinis were quaffed.
 
 And at the end of the day, isn’t that why we all run? So we can drink espresso martinis with our friends on a guilt-free New York City Saturday night? 
 
